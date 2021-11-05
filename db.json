@@ -16,12 +16,12 @@
 			"commentInfo": "",
 			"details": [
 				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false,},
-				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
-				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
-				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
-				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
-				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
-				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false}
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false,},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false,},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false,},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false,},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false,},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false,}
 			]
 		},
 		{
@@ -37,12 +37,12 @@
 			"commentInfo": "",
 			"details": [
 			{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
-				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
-				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
-				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
-				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
-				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
-				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false}
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false,},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false,},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false,},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false,},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false,},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false,}
 			]
 		}
 	]
