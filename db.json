@@ -1,33 +1,31 @@
 {
-	"_id" : "xxxxxx",
-	"username": "aaa",
-	"password": "aaa",
-	"timesheets": [
-		{
-			"id": "ccccccccccc",
-			"user_id": 1,
-			"weekEnding": "3/31/2018",
-			"billingHours": 32,
-			"compensatedHours": 40,
-			"submissionStatus": "Not Started",
-			"approvalStatus": "N/A",
-			"comment": "1 Floating day required",
-			"submissionInfo": "",
-			"commentInfo": ""
-			
-		},
-		{
-			"id": "ccccccccccc",
-			"user_id": 1,
-			"weekEnding": "3/31/2018",
-			"billingHours": 32,
-			"compensatedHours": 40,
-			"submissionStatus": "Not Started",
-			"approvalStatus": "N/A",
-			"comment": "1 Floating day required",
-			"submissionInfo": "",
-			"commentInfo": ""
-			
-		}
-	]
+  "_id": "xxxxxx",
+  "username": "aaa",
+  "password": "aaa",
+  "timesheets": [
+    {
+      "id": "ccccccccccc",
+      "user_id": 1,
+      "weekEnding": "3/31/2018",
+      "billingHours": 32,
+      "compensatedHours": 40,
+      "submissionStatus": "Not Started",
+      "approvalStatus": "N/A",
+      "comment": "1 Floating day required",
+      "submissionInfo": "",
+      "commentInfo": ""
+    },
+    {
+      "id": "ccccccccccc",
+      "user_id": 1,
+      "weekEnding": "3/31/2018",
+      "billingHours": 32,
+      "compensatedHours": 40,
+      "submissionStatus": "Not Started",
+      "approvalStatus": "N/A",
+      "comment": "1 Floating day required",
+      "submissionInfo": "",
+      "commentInfo": ""
+    }
+  ]
 }
