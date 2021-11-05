@@ -4,7 +4,7 @@
 	password: "aaa",
 	timesheets: [
 		{
-			id: "ccccccccccc",
+			_id: "ccccccccccc",
 			user_id: 1,
 			weekEnding: "3/31/2018",
 			billingHours: 32,
@@ -25,7 +25,7 @@
 			]
 		},
 		{
-			id: "ccccccccccc",
+			_id: "ccccccccccc",
 			user_id: 1,
 			weekEnding: "3/31/2018",
 			billingHours: 32,
