@@ -1,48 +1,48 @@
 {
-	_id: "xxxxxx",
-	username: "aaa",
-	password: "aaa",
-	timesheets: [
+	"_id" : "xxxxxx",
+	"username": "aaa",
+	"password": "aaa",
+	"timesheets": [
 		{
-			_id: "ccccccccccc",
-			user_id: 1,
-			weekEnding: "3/31/2018",
-			billingHours: 32,
-			compensatedHours: 40,
-			submissionStatus: "Not Started",
-			approvalStatus: "N/A",
-			comment: "1 Floating day required",
-			submissionInfo: "",
-			commentInfo: "",
-			details: [
-				{start: "N/A", end: "N/A", totalHours: 0, floating: false, holiday: false, vacation: false},
-				{start: "", end: "", totalHours: 0, floating: false, holiday: false, vacation: false},
-				{start: "N/A", end: "N/A", totalHours: 0, floating: false, holiday: false, vacation: false},
-				{start: "N/A", end: "N/A", totalHours: 0, floating: false, holiday: false, vacation: false},
-				{start: "N/A", end: "N/A", totalHours: 0, floating: false, holiday: false, vacation: false},
-				{start: "N/A", end: "N/A", totalHours: 0, floating: false, holiday: false, vacation: false},
-				{start: "N/A", end: "N/A", totalHours: 0, floating: false, holiday: false, vacation: false}
+			"id": "ccccccccccc",
+			"user_id": 1,
+			"weekEnding": "3/31/2018",
+			"billingHours": 32,
+			"compensatedHours": 40,
+			"submissionStatus": "Not Started",
+			"approvalStatus": "N/A",
+			"comment": "1 Floating day required",
+			"submissionInfo": "",
+			"commentInfo": "",
+			"details": [
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false}
 			]
 		},
 		{
-			_id: "ccccccccccc",
-			user_id: 1,
-			weekEnding: "3/31/2018",
-			billingHours: 32,
-			compensatedHours: 40,
-			submissionStatus: "Not Started",
-			approvalStatus: "N/A",
-			comment: "1 Floating day required",
-			submissionInfo: "",
-			commentInfo: "",
-			details: [
-				{start: "N/A", end: "N/A", totalHours: 0, floating: false, holiday: false, vacation: false},
-				{start: "", end: "", totalHours: 0, floating: false, holiday: false, vacation: false},
-				{start: "N/A", end: "N/A", totalHours: 0, floating: false, holiday: false, vacation: false},
-				{start: "N/A", end: "N/A", totalHours: 0, floating: false, holiday: false, vacation: false},
-				{start: "N/A", end: "N/A", totalHours: 0, floating: false, holiday: false, vacation: false},
-				{start: "N/A", end: "N/A", totalHours: 0, floating: false, holiday: false, vacation: false},
-				{start: "N/A", end: "N/A", totalHours: 0, floating: false, holiday: false, vacation: false}
+			"id": "ccccccccccc",
+			"user_id": 1,
+			"weekEnding": "3/31/2018",
+			"billingHours": 32,
+			"compensatedHours": 40,
+			"submissionStatus": "Not Started",
+			"approvalStatus": "N/A",
+			"comment": "1 Floating day required",
+			"submissionInfo": "",
+			"commentInfo": "",
+			"details": [
+			{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false},
+				{"start": "N/A", "end": "N/A", "totalHours": 0, "floating": false, "holiday": false, "vacation": false}
 			]
 		}
 	]
